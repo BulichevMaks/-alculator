@@ -109,6 +109,7 @@ public enum RimEnum {
         this.key = key;
     }
 
+
     public int getValue() {
         return value;
     }
